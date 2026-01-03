@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daim-post.online/sitemap.xml

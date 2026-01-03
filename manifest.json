@@ -1,0 +1,42 @@
+
+{
+  "name": "FastPost - Super App",
+  "short_name": "FastPost",
+  "description": "Order food, buy cars, book Umrah trips, and more in one super app.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://horizons-cdn.hostinger.com/d932dbde-bfbe-4de4-8cd7-a099a696e2cb/c6dc0f556d048e297ab1e07e8ba9237c.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://horizons-cdn.hostinger.com/d932dbde-bfbe-4de4-8cd7-a099a696e2cb/c6dc0f556d048e297ab1e07e8ba9237c.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://horizons-cdn.hostinger.com/d932dbde-bfbe-4de4-8cd7-a099a696e2cb/7d0695e3daa7fb7ac2d7bbc45f9f2844.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "Home Screen"
+    },
+    {
+      "src": "https://horizons-cdn.hostinger.com/d932dbde-bfbe-4de4-8cd7-a099a696e2cb/809d991267e008ca3f99b51041f5912b.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "Order Tracking"
+    }
+  ]
+}
